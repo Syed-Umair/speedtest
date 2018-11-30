@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "node ."
+    "start": "node ./src/Speedtest.js"
   },
   "dependencies": {
     "express": "^4.16.3",
